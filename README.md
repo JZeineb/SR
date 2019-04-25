@@ -7,17 +7,20 @@
 * SBT 2.8.1
 
 ## Steps 
+
 * Initializing Spark Session
 * Importing Data
-* Building the Pipeline
-Assembling Vectors
-Training Model
+* Model parameter 
 * Applying model to data
-* Saving Clustered Data
+* Saving Clustered Data on HDFS
 
 
 ## Configuration
+The program needs somme properties to be executed. These properties are saved in config/config.properties. 
 
+`````
+
+`````
 
 ## Runing on HADOOP cluster 
 To build the project, run : 
