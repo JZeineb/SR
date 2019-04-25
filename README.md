@@ -7,6 +7,14 @@
 * SBT 2.8.1
 
 ## Steps 
+* Initializing Spark Session
+* Importing Data
+* Building the Pipeline
+Assembling Vectors
+Training Model
+* Applying model to data
+* Saving Clustered Data
+
 
 ## Configuration
 
